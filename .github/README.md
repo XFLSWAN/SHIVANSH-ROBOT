@@ -3,22 +3,17 @@
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+ᴍᴇʟᴀɴɪʏᴀ+ʀᴏʙᴏᴛ+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+ᴍᴀɴᴀɢᴇʀ+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥)](https://github.com/SHIVANSH475/SHIVANSH-ROBOT)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+ᴍᴇʟᴀɴɪᴀ+ʀᴏʙᴏᴛ+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+ᴍᴀɴᴀɢᴇʀ+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥)](https://github.com/SHIVANSH475/SHIVANSH-ROBOT)
 
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/b61227af05544deb76a34.jpg">
+  <img src="https://graph.org/file/8b8c781e18e8597f45f56.jpg">
 </p>
 
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗕𝗘𝗙𝗢𝗥𝗘+𝗗𝗘𝗣𝗟𝗢𝗬)
-
-## ⚠️ 𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-👉🏻 ʜᴇʏ ɢᴜʏ's, ᴅᴏɴ'ᴛ ᴜsᴇ ʏᴏᴜʀ ʀᴇᴀʟ ɪ'ᴅ sᴇssɪᴏɴ ᴀs ᴀ ᴀssɪsᴛᴀɴᴛ ʙᴄᴏᴢ ᴛʜᴇ ᴀssɪsᴛᴀɴᴛ ᴡɪʟʟ ʟᴇᴀᴠᴇ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘs & ᴄʜᴀɴɴᴇʟs.ᴜ  ᴍɪɢʜᴛ ʟᴏᴏsᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘs ᴏᴡɴᴇʀsʜɪᴘ ᴀɴᴅ ᴀᴅᴍɪɴsʜɪᴘ 🥺 sᴏ ᴜsᴇ ʏᴏᴜʀ ᴀɴʏ ᴏᴛʜᴇʀ ɪ'ᴅ sᴇssɪᴏɴ 👈🏻
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 ## 🖇 Generating Pyrogram String Session
