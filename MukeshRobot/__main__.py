@@ -421,7 +421,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                             text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
                         ),
                         InlineKeyboardButton(
-                            text="ɢɪᴛʜᴜʙ", url="https://t.me/SHIVANSH474"
+                            text="ᴍᴜsɪᴄ", url="https://t.me/Itz_SapnaMusicbot"
                         ),
                     ],
                     [
