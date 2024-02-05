@@ -379,13 +379,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
             
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [
-        InlineKeyboardButton(text="ʜᴏᴍᴇ", callback_data="mukesh_back"),
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="mukesh_"),
-        InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", callback_data="source_"),
-        InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="ᴄᴏᴍᴍᴀɴᴅs", callback_data="Main_help"),
-     ],
+                   
                     [
                         InlineKeyboardButton(
                             text="sᴜᴩᴩᴏʀᴛ", callback_data="mukesh_support"
