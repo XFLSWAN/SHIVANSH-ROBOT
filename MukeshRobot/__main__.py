@@ -91,7 +91,7 @@ buttons = [
         InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", callback_data="source_"),
         InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"tg://user?id={OWNER_ID}"),
         InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ",
-url=f"https://t.me/mastiwithfriendsx"),
+url=f"https://t.me/MASTIWITHFRIENDSXD"),
      ],
     [
         InlineKeyboardButton(
